@@ -13,9 +13,10 @@ El objetivo del juego es simple pero desafiante: debes guiar a "Pingüi" desde e
 
 ## 📸 Capturas de Pantalla
 
-| Pantalla de Inicio | Esquivando Obstáculos | Fin del Juego (Derrota) | Llegada a la Meta (Victoria) |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/0.png" width="200"> | <img src="assets/1.png" width="200"> | <img src="assets/2.png" width="200"> | <img src="assets/3.png" width="200"> |
+- ![Pantalla de Inicio](assets/0.png) — Imagen 0: Pantalla de inicio esperando a empezar.
+- ![Esquivando Obstáculos](assets/1.png) — Imagen 1: Captura del pingüino esquivando a los tiburones.
+- ![Derrota](assets/2.png) — Imagen 2: Captura del momento en que un tiburón te atrapa.
+- ![Victoria](assets/3.png) — Imagen 3: Captura al lograr llegar a la meta.
 
 ## 🛠️ Tecnologías Usadas
 * [Flutter](https://flutter.dev/)
